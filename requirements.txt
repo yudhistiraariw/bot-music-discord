@@ -1,0 +1,4 @@
+discord.py[voice]
+yt-dlp[default]
+spotipy
+python-dotenv

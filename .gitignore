@@ -1,0 +1,20 @@
+# Rahasia - JANGAN PERNAH di-commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# File sementara yt-dlp
+*.part
+*.webm
+*.m4a
+cookies.txt
